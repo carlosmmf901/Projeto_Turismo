@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kCMqMtEl7MOXbNSNHM9R36ogQJ/S5mDkLG2wIjq0TRs=",
+  "Hash": "bzLKF1bstEuh/yKYLDgXEan4XAycYaKRE89Vm3+m8pE=",
   "Source": "AT_application_Turismo",
   "BasePath": "_content/AT_application_Turismo",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/carlos/RiderProjects/AT_application_Turismo/AT_application_Turismo/wwwroot/files/nota_639113600562717140.txt",
+      "SourceId": "AT_application_Turismo",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/carlos/RiderProjects/AT_application_Turismo/AT_application_Turismo/wwwroot/",
+      "BasePath": "_content/AT_application_Turismo",
+      "RelativePath": "files/nota_639113600562717140.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/files/nota_639113600562717140.txt"
     },
     {
       "Identity": "/Users/carlos/RiderProjects/AT_application_Turismo/AT_application_Turismo/wwwroot/js/site.js",

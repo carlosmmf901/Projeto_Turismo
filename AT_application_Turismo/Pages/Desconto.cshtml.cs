@@ -15,9 +15,19 @@ public class DescontoModel : PageModel
     public void OnPost()
     {
         var service = new DescontoService();
+        var logService = new LogService();
 
         CalculateDelegate calcular = service.AplicarDesconto;
 
         Resultado = calcular(Preco);
+        
+        Action<string> logger = logService.LogToConsole;
+        logger += logService.LogToFile;
+        logger += logService.LogToMemory;
+
+        logger($"Desconto aplicado no valor {Preco}");
     }
+    
+    
+    
 }

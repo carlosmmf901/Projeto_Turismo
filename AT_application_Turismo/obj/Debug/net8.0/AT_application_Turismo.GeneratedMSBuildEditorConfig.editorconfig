@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/carlos/RiderProjects/AT_application_Turismo/AT_application_Turismo
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/carlos/RiderProjects/AT_application_Turismo/AT_application_Turismo/Pages/CreatePacoteCompleto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3JlYXRlUGFjb3RlQ29tcGxldG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos/RiderProjects/AT_application_Turismo/AT_application_Turismo/Pages/CreatePacoteTuristico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3JlYXRlUGFjb3RlVHVyaXN0aWNvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos/RiderProjects/AT_application_Turismo/AT_application_Turismo/Pages/CreateReserva.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3JlYXRlUmVzZXJ2YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/carlos/RiderProjects/AT_application_Turismo/AT_application_Turismo/Pages/Desconto.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVzY29udG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -30,12 +42,40 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/carlos/RiderProjects/AT_application_Turismo/AT_application_Turismo/Pages/PacoteDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFjb3RlRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos/RiderProjects/AT_application_Turismo/AT_application_Turismo/Pages/Pacotes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFjb3Rlcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos/RiderProjects/AT_application_Turismo/AT_application_Turismo/Pages/Pacotes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFjb3Rlcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos/RiderProjects/AT_application_Turismo/AT_application_Turismo/Pages/Pacotes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFjb3Rlcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos/RiderProjects/AT_application_Turismo/AT_application_Turismo/Pages/Pacotes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFjb3Rlcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/carlos/RiderProjects/AT_application_Turismo/AT_application_Turismo/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/carlos/RiderProjects/AT_application_Turismo/AT_application_Turismo/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos/RiderProjects/AT_application_Turismo/AT_application_Turismo/Pages/Simulacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2ltdWxhY2FvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/carlos/RiderProjects/AT_application_Turismo/AT_application_Turismo/Pages/ViewNotes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVmlld05vdGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/carlos/RiderProjects/AT_application_Turismo/AT_application_Turismo/Pages/_ViewImports.cshtml]
