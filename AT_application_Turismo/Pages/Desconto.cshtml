@@ -1,0 +1,16 @@
+@page
+@model AT_application_Turismo.Pages.DescontoModel
+
+<h2>Calcular Desconto</h2>
+
+<form method="post">
+    <label>Preço:</label>
+    <input type="number" step="0.01" asp-for="Preco" required />
+    
+    <button type="submit">Calcular</button>
+</form>
+
+@if (Model.Resultado.HasValue)
+{
+    <p>Resultado: @Model.Resultado.Value.ToString("C")</p>
+}
